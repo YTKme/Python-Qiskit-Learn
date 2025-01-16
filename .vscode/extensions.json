@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "humao.rest-client",
+    "ms-python.autopep8",
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "postman.postman-for-vscode",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}
